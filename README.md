@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
