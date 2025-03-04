@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
