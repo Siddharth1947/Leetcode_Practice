@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
