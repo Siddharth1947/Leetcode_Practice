@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0792-binary-search](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -19,14 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
