@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
+| [0485-max-consecutive-ones](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1603-running-sum-of-1d-array) |
