@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
