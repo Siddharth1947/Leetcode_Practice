@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
