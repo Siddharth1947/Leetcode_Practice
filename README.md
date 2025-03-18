@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
