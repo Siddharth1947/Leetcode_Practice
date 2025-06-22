@@ -157,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0054-spiral-matrix) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## String
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
