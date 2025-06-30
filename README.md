@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
@@ -165,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
