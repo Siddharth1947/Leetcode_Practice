@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -164,10 +165,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
