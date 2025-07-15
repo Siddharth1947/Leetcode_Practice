@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2121-find-if-path-exists-in-graph) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2121-find-if-path-exists-in-graph) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
