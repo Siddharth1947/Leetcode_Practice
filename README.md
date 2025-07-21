@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1073-number-of-enclaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1580-shuffle-the-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0813-all-paths-from-source-to-target) |
+| [1036-rotting-oranges](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
