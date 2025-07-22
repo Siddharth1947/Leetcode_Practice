@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
