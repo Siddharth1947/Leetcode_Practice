@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1073-number-of-enclaves) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Siddharth1947/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
